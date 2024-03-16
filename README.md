@@ -17,14 +17,14 @@
 
 - :school: I am a `Student` at Faculty of Computer Science 
 - :thinking: I’m currently open for: `An Internship` 
-- 🌱 I’m currently learning `Flutter`  and `Native IOS`  
+- 🌱 I’m currently learning `Web`  
 - :technologist: I love using software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 
 <br>
  <!-- ======= End About Section ======= -->
  <!-- =======  Profile views Section ======= -->
-<a href="https://github.com/Mohamed-khaled0/">
+<a href="">
 
  <!-- ======= Profile views Section ======= -->
 <!-- ======= Skills Section ======= -->
@@ -32,14 +32,14 @@
 
 ### Programming Languages & Frameworks
 <p align="left">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
+        <img src="https://icons8.com/icon/EAUyKy3IwmqM/html-5" alt="html" width="40" height="40"/>
     </a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
+        <img src="https://icons8.com/icon/3BTBsJs5myRy/css3" alt="css" width="40" height="40"/>
     </a>
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+    <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+        <img src="https://icons8.com/icon/108784/javascript" alt="javascript" width="40" height="40"/>
     </a>
 </p>
 
@@ -53,37 +53,6 @@
     </a>
 </p>
 
-### API Development and Testing
-<p align="left">
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-</p>
-
-### Database Skills
-<p align="left">
-    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
-    </a>
-    <a href="https://realm.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    </a>
-</p>
-
-### Integrated Development Environments (IDE)
-<p align="left">
-	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/>
-    </a>
-</p>
 <!-- ======= End Skills Section ======= -->
 
  <!-- ======= Github Stats Section ======= -->
